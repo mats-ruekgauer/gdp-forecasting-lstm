@@ -1,0 +1,31 @@
+# macOS system files
+.DS_Store
+
+# VS Code
+.vscode/
+*.code-workspace
+
+# LaTeX build output
+*.aux
+*.log
+*.out
+*.toc
+*.synctex.gz
+*.fls
+*.fdb_latexmk
+*.bbl
+*.blg
+
+# Python
+__pycache__/
+*.pyc
+.venv/
+.pytest_cache/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# folders
+archive/
+thesis/
+proposal/

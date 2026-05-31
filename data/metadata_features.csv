@@ -1,0 +1,60 @@
+Name,Publication lag,Frequency,Applied NaNs
+CONST_TURNOVER (MoM % change) m1,2.0,M,0
+CONST_TURNOVER (MoM % change) m2,2.0,M,1
+CONST_TURNOVER (MoM % change) m3,2.0,M,1
+PERMITS (level change) m1,2.0,M,0
+PERMITS (level change) m2,2.0,M,1
+PERMITS (level change) m3,2.0,M,1
+MFG_ORDERS (MoM % change) m1,2.0,M,0
+MFG_ORDERS (MoM % change) m2,2.0,M,1
+MFG_ORDERS (MoM % change) m3,2.0,M,1
+IND_PROD (MoM % change) m1,2.0,M,0
+IND_PROD (MoM % change) m2,2.0,M,1
+IND_PROD (MoM % change) m3,2.0,M,1
+CAP_UTIL (ppt change),1.0,Q,1
+MFG_TURNOVER (MoM % change) m1,2.0,M,0
+MFG_TURNOVER (MoM % change) m2,2.0,M,1
+MFG_TURNOVER (MoM % change) m3,2.0,M,1
+RETAIL_TURNOVER (MoM % change) m1,2.0,M,0
+RETAIL_TURNOVER (MoM % change) m2,2.0,M,1
+RETAIL_TURNOVER (MoM % change) m3,2.0,M,1
+CONSUMPTION (QoQ % change),1.0,Q,1
+DISP_INC (QoQ % change),1.0,Q,1
+EMPLOYMENT_ESA (level change) m1,2.0,M,0
+EMPLOYMENT_ESA (level change) m2,2.0,M,1
+EMPLOYMENT_ESA (level change) m3,2.0,M,1
+UNEMPLOYMENT (ppt change) m1,2.0,M,0
+UNEMPLOYMENT (ppt change) m2,2.0,M,1
+UNEMPLOYMENT (ppt change) m3,2.0,M,1
+EMPLOYMENT_SV (level change) m1,3.0,M,1
+EMPLOYMENT_SV (level change) m2,3.0,M,1
+EMPLOYMENT_SV (level change) m3,3.0,M,1
+ULC (QoQ % change),2.0,Q,2
+VACANCIES (Level change) m1,1.0,M,0
+VACANCIES (Level change) m2,1.0,M,0
+VACANCIES (Level change) m3,1.0,M,1
+IMPORT_PRC (MoM % change) m1,2.0,M,0
+IMPORT_PRC (MoM % change) m2,2.0,M,1
+IMPORT_PRC (MoM % change) m3,2.0,M,1
+EXPORT_PRC (MoM % change) m1,2.0,M,0
+EXPORT_PRC (MoM % change) m2,2.0,M,1
+EXPORT_PRC (MoM % change) m3,2.0,M,1
+IMPORTS (QoQ % change),1.0,Q,1
+EXPORTS (QoQ % change),1.0,Q,1
+IFO_BCI m1,0.0,M,0
+IFO_BCI m2,0.0,M,0
+IFO_BCI m3,0.0,M,0
+IFO_EMP m1,1.0,M,0
+IFO_EMP m2,1.0,M,0
+IFO_EMP m3,1.0,M,1
+GDP (QoQ % change),1.0,Q,1
+HICP (MoM % change) m1,1.0,M,0
+HICP (MoM % change) m2,1.0,M,0
+HICP (MoM % change) m3,1.0,M,1
+CPI_CORE (MoM % change) m1,1.0,M,0
+CPI_CORE (MoM % change) m2,1.0,M,0
+CPI_CORE (MoM % change) m3,1.0,M,1
+PPI (MoM % change) m1,1.0,M,0
+PPI (MoM % change) m2,1.0,M,0
+PPI (MoM % change) m3,1.0,M,1
+GNI (QoQ % change),1.0,Q,1
