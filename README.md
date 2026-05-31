@@ -12,7 +12,7 @@ This thesis investigates whether Long Short-Term Memory (LSTM) neural networks c
 code/
   models/
     lstm.py              # Model definition, training, and forecasting pipeline
-    benchmarks.py        # Benchmark models (mean, AR(1))
+    benchmarks.py        # Benchmark models (mean, AR(1), naive)
   config.py              # Project paths and global settings
   01-load data.ipynb
   02-preprocess data.ipynb
@@ -37,7 +37,7 @@ Full replication covers:
 - Model fitting and evaluation
 - Recreation of all empirical results
 
-> **Note:** Replication of raw data loading is omitted. Original data sources with direct download links are documented in `TBD`.
+> **Note:** Replication of raw data loading is omitted. Original data sources with direct download links are documented in `metadata_series.csv`.
 
 ## Usage
 
